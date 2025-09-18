@@ -10,7 +10,7 @@
 
 **Technical Lead | Cloud-Native Architect | AI-Driven Engineer**
 
-I’m a technical lead and polyglot engineer with **10+ years’ experience** building **cloud-native platforms**, leading **high-performing teams**, and delivering **AI-driven innovation**. Passionate about solving hard problems, mentoring engineers, and architecting scalable, future-ready systems.
+I’m a technical lead and polyglot engineer with **10 years’ experience** building **cloud-native platforms**, leading **high-performing teams**, and delivering **AI-driven innovation**. Passionate about solving hard problems, mentoring engineers, and architecting scalable, future-ready systems.
 
 ---
 
@@ -32,19 +32,23 @@ I’m a technical lead and polyglot engineer with **10+ years’ experience** bu
 ### **Clinithink** — *Technical Lead*  
 *Jun 2023 – Present | Bridgend, Hybrid*
 
-- Architected and delivered **CustomerHub**, re-platforming a legacy .NET/Azure app into **HubSpot CMS + React + Azure Functions**, **cutting deployment cycles by 75%**.
-- Built **BuildTools** — a PowerShell cmdlet suite and reusable **Azure DevOps pipeline templates** to standardise pipelines across the business.
+- Led a small team to architected and deliver **CustomerHub** in a quarter (ahead of schedule), re-platforming a legacy .NET/Azure app into **HubSpot CMS + React + Azure Functions**, **cutting deployment cycles by 75%**. .Net was new to me
+- Built **BuildTools** — a PowerShell cmdlet suite and reusable **Azure DevOps pipeline templates** to standardise pipelines across the business. Provided necessary tooling for across the business, such as tracking our AI coding metrics, generating change logs, versioning, auto promotion of artifacts in **Azure Devops**
 - Led **ProjectCipher**, an AI-driven experiment using **ML.NET + TypeScript + React** to evaluate one-shot full-stack generation.
 - Mentored engineers and drove **psychological safety**, boosting delivery velocity and collaboration.
+- Was a member of the Wellbeing team to promote openness and inclusivity
+- Performed multiple demo's within our technical forum across a number of different projects and experiments
+- A brief stay within the **CLiX Unlock** unlock teams, two crossfunctional teams who reported to a colleague as tech lead. I naturally re-positioned myself into a senior engineer role to support the lead.
 
 ---
 
 ### **Clinithink** — *Software Engineer*  
 *Jun 2021 – Jun 2023 | Bridgend, Hybrid*
 
-- Delivered **CLiX Revenue**, a **Python/Django/React** app surfacing NLP-powered insights; became the **engineering benchmark** at Clinithink.
+- **CLiX Revenue**, an already established product **Python/Django/React** app surfacing NLP-powered insights. Django was new to me. Eventually led this team to became the **engineering benchmark** at Clinithink.
 - Created Clinithink’s **first CI/CD pipeline** using **Terraform + Azure DevOps**, **cutting QA cycle times from days to hours**.
-- Partnered with product owners to define features, improve agile processes, and coach peers on modern engineering practices.
+- Partnered with product owners and scrum masters to define features, improve agile processes, and coach peers on modern engineering practices.
+
 
 ---
 

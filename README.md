@@ -29,7 +29,7 @@ I’m a technical lead and polyglot engineer with **10 years’ experience** bui
 
 ## 💼 Professional Experience
 
-### **Duel** — *Technical Lead*  
+### **Duel** — *Senior Full-stack Engineer*  
 *Oct 2025 – Feb 2026 | Bristol, Hybrid*
 
 - Built out an AI first advocate challenge creation and content creation analysis prototype using langraph

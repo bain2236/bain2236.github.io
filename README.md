@@ -2,8 +2,9 @@
 
 Pontypool, South Wales
 [abainbridge89@gmail.com](mailto:abainbridge89@gmail.com) • 07984 682330
-LinkedIn: https://www.linkedin.com/in/alex-bainbridge-84a670116
-GitHub: https://github.com/bain2236 • Dev Blog: https://dev.to/bain_forge_games
+[LinkedIn](https://www.linkedin.com/in/alex-bainbridge-84a670116)
+[GitHub](https://github.com/bain2236)
+[Dev Blog](https://dev.to/bain_forge_games)
 
 ---
 
@@ -19,16 +20,20 @@ Technical Lead with 10 years’ experience designing and delivering cloud-based 
 * Built the first CI/CD pipelines at Clinithink and standardised engineering workflows across teams
 * Introduced AI-assisted engineering practices and tooling across an engineering organisation
 * Led and mentored engineers, improving team collaboration and delivery reliability
-* Designed distributed data processing and cloud-native systems in regulated environments
+* Designed distributed data processing in regulated environments
 
 ---
 
 ## Core Skills
 
 **Languages:** Python, C#, TypeScript, JavaScript
+
 **Frameworks:** .NET, React, Django, FastAPI, Node.js
-**Cloud & DevOps:** Azure, AWS, Terraform, Docker, Kubernetes, Azure DevOps, Jenkins
-**Data & Messaging:** Kafka, Redis, Elasticsearch, MySQL
+
+**Cloud & DevOps:** Azure, AWS, Terraform, Docker, Kubernetes, Azure DevOps
+
+**Data & Messaging:** MSSQL, Kafka, Redis, Elasticsearch
+
 **Practices:** System architecture, CI/CD, DevOps enablement, platform engineering, mentoring, agile delivery, incident management
 
 ---

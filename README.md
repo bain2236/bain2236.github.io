@@ -1,111 +1,123 @@
 # Alexander Bainbridge
 
-📍 Pontypool, South Wales  
-📧 [abainbridge89@gmail.com](mailto:abainbridge89@gmail.com) • 📱 07984 682330  
-🔗 [LinkedIn](https://www.linkedin.com/in/alex-bainbridge-84a670116) • [GitHub](https://github.com/bain2236) • [Dev Blog](https://dev.to/bain_forge_games)
+Pontypool, South Wales
+[abainbridge89@gmail.com](mailto:abainbridge89@gmail.com) • 07984 682330
+LinkedIn: https://www.linkedin.com/in/alex-bainbridge-84a670116
+GitHub: https://github.com/bain2236 • Dev Blog: https://dev.to/bain_forge_games
 
 ---
 
-## 🚀 About Me
+## Technical Lead | Cloud & Platform Engineer
 
-**Technical Lead | Cloud-Native Architect | AI-Driven Engineer**
-
-I’m a technical lead and polyglot engineer with **10 years’ experience** building **cloud-native platforms**, leading **high-performing teams**, and delivering **AI-driven innovation**. Passionate about solving hard problems, mentoring engineers, and architecting scalable, future-ready systems.
+Technical Lead with 10 years’ experience designing and delivering cloud-based platforms across healthcare, defence, and SaaS organisations. Experienced in system architecture, platform modernisation, DevOps adoption, and introducing AI-assisted engineering practices. Proven record of improving delivery speed, mentoring engineers, and establishing reliable production systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Key Achievements
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* Delivered a full re-platforming (CustomerHub) in one quarter, reducing deployment cycles by 75%
+* Built the first CI/CD pipelines at Clinithink and standardised engineering workflows across teams
+* Introduced AI-assisted engineering practices and tooling across an engineering organisation
+* Led and mentored engineers, improving team collaboration and delivery reliability
+* Designed distributed data processing and cloud-native systems in regulated environments
 
 ---
 
-## 💼 Professional Experience
+## Core Skills
 
-### **Duel** — *Senior Full-stack Engineer*  
-*Oct 2025 – Feb 2026 | Bristol, Hybrid*
-
-- Built out an AI first advocate challenge creation and content creation analysis prototype using langraph
-- Productionised the content creation analysis in their unfamiliar stack. Released to several brands
-- Held a retro in the first month focussing on psycological safety
-- Assisted in BAU such as adding in new translations in short time frames for brand launches
-- Disseminated a years worth of AI enabled engineering learnings to the wider engineering team
-- Built out AI-enabled engineering - rules, skills and workflows
+**Languages:** Python, C#, TypeScript, JavaScript
+**Frameworks:** .NET, React, Django, FastAPI, Node.js
+**Cloud & DevOps:** Azure, AWS, Terraform, Docker, Kubernetes, Azure DevOps, Jenkins
+**Data & Messaging:** Kafka, Redis, Elasticsearch, MySQL
+**Practices:** System architecture, CI/CD, DevOps enablement, platform engineering, mentoring, agile delivery, incident management
 
 ---
 
-### **Clinithink** — *Technical Lead*  
-*Jun 2023 – Aug 2025 | Bridgend, Hybrid*
+## Professional Experience
 
-- Led a small team to architected and deliver **CustomerHub** in a quarter (ahead of schedule), re-platforming a legacy .NET/Azure app into **HubSpot CMS + React + Azure Functions**, **cutting deployment cycles by 75%**. .Net was new to me
-- Built **BuildTools** — a PowerShell cmdlet suite and reusable **Azure DevOps pipeline templates** to standardise pipelines across the business. Provided necessary tooling for across the business, such as tracking our AI coding metrics, generating change logs, versioning, auto promotion of artifacts in **Azure Devops**
-- Led **ProjectCipher**, an AI-driven experiment using **ML.NET + TypeScript + React** to evaluate one-shot full-stack generation.
-- Mentored engineers and drove **psychological safety**, boosting delivery velocity and collaboration.
-- Was a member of the Wellbeing team to promote openness and inclusivity
-- Performed multiple demo's within our technical forum across a number of different projects and experiments
-- A brief stay within the **CLiX Unlock** unlock teams, two crossfunctional teams who reported to a colleague as tech lead. I naturally re-positioned myself into a senior engineer role to support the lead.
+### Duel — Senior Full-Stack Engineer
 
----
+*Oct 2025 – Feb 2026 | Bristol (Hybrid)*
 
-### **Clinithink** — *Software Engineer*  
-*Jun 2021 – Jun 2023 | Bridgend, Hybrid*
-
-- **CLiX Revenue**, an already established product **Python/Django/React** app surfacing NLP-powered insights. Django was new to me. Eventually led this team to became the **engineering benchmark** at Clinithink.
-- Created Clinithink’s **first CI/CD pipeline** using **Terraform + Azure DevOps**, **cutting QA cycle times from days to hours**.
-- Partnered with product owners and scrum masters to define features, improve agile processes, and coach peers on modern engineering practices.
-
+* Designed and delivered an AI-first advocate challenge-creation and content-analysis prototype using LangGraph
+* Productionised the system in an unfamiliar stack and released it to multiple customer brands
+* Introduced AI-assisted engineering workflows including reusable rules, skills, and automation patterns
+* Facilitated team retrospectives focused on psychological safety and team effectiveness
+* Supported live production operations, including rapid localisation updates for brand launches
+* Shared AI engineering practices and learnings across the wider engineering organisation
 
 ---
 
-### **Raytheon** — *Senior Software Engineer*  
+### Clinithink — Technical Lead
+
+*Jun 2023 – Aug 2025 | Bridgend (Hybrid)*
+
+* Led a small team to architect and deliver **CustomerHub**, re-platforming a legacy .NET/Azure system to HubSpot CMS, React, and Azure Functions within one quarter
+* Reduced deployment cycles by 75% and significantly improved release reliability
+* Built **BuildTools**, a PowerShell cmdlet suite and reusable Azure DevOps pipeline templates used across the organisation
+* Standardised CI/CD pipelines, versioning, change logging, and artifact promotion
+* Introduced tooling to track AI-assisted coding metrics and engineering productivity
+* Mentored engineers and promoted psychological safety and collaborative working practices
+* Delivered technical demonstrations and knowledge-sharing sessions across multiple teams
+* Supported cross-team initiatives within the CLiX Unlock programme, adapting into a senior engineering role to assist delivery teams
+
+---
+
+### Clinithink — Software Engineer
+
+*Jun 2021 – Jun 2023 | Bridgend (Hybrid)*
+
+* Worked on **CLiX Revenue**, a Python/Django/React platform providing NLP-powered analytics
+* Eventually led the team and established it as the engineering benchmark within the organisation
+* Built the company’s first CI/CD pipelines using Terraform and Azure DevOps
+* Reduced QA cycle times from days to hours
+* Collaborated with product owners and scrum masters to improve agile delivery practices
+
+---
+
+### Raytheon — Senior Software Engineer
+
 *Nov 2020 – Apr 2021 | Cheltenham*
 
-- Built an **employee portal** using **React, Node.js, MySQL, Liquibase**, and **Docker**, deployed via **Jenkins + Kubernetes + Helm**.
-- Improved test coverage and quality using **Jest, Cypress, and Cucumber**.
-- Mentored junior engineers and influenced DevOps adoption across teams.
+* Developed an internal employee portal using React, Node.js, MySQL, and Docker deployed via Jenkins, Kubernetes, and Helm
+* Improved automated testing using Jest, Cypress, and Cucumber
+* Mentored junior engineers and encouraged DevOps practices within the team
 
 ---
 
-### **BAE Systems Applied Intelligence** — *Software Engineer*  
+### BAE Systems Applied Intelligence — Software Engineer
+
 *Aug 2016 – Nov 2020 | London & Cheltenham*
 
-- Built a **distributed ETL framework** in **Python**, integrating **Kafka, Redis, Elasticsearch, and NiFi** to automate data processing.
-- Designed CI/CD pipelines via **Ansible** and delivered robust testing suites using **Pytest**.
-- Provided 24/7 support for critical client systems, resolving high-severity incidents under strict SLAs.
+* Designed and built a distributed ETL framework in Python integrating Kafka, Redis, Elasticsearch, and NiFi
+* Implemented CI/CD pipelines using Ansible and introduced automated testing with Pytest
+* Supported critical production systems and resolved high-severity incidents under strict SLAs
 
 ---
 
-## 🌟 Highlight Projects
+## Projects
 
-| Project | Tech | Summary |
-|--------|------|---------|
-| **ProjectVelour** | FastAPI • ComfyUI • Stable Diffusion • React | AI-driven platform for personal expression through tattoos and nail art. |
-| **Spelltail** | Unity • C# • LLMs | A **Snake x Scrabble** mashup with AI-driven story generation. [Devlog](https://dev.to/bain_forge_games) |
-| **ProjectCipher** | ML.NET • TypeScript • React | Experimental AI-assisted **full-stack code generation**. [ProjectCipher](https://github.com/bain2236/ProjectCipher) |
-| **BuildTools** | PowerShell • Azure DevOps • Python | A cmdlet + pipeline toolkit that standardised devops practices. |
+**ProjectVelour** — FastAPI, ComfyUI, Stable Diffusion, React
+AI-driven platform for personal expression through tattoos and nail art.
 
----
+**Spelltail** — Unity, C#, LLMs
+Experimental game combining word mechanics and AI-driven narrative generation.
 
-## 📜 Certifications
+**ProjectCipher** — ML.NET, TypeScript, React
+Research project exploring full-stack AI code generation.
 
-- Mental Health First Aider
-
----
-
-## 🎓 Education
-
-**University of South Wales** — BSc (Hons) Computer Games Development, 2:1 *(2012–2016)*  
-**Pontypool College** — HND Graphic Design *(2005–2008)*
+**BuildTools** — PowerShell, Azure DevOps, Python
+Reusable command and pipeline toolkit standardising development workflows.
 
 ---
 
-## 🔗 Let’s Connect
+## Certifications
 
-💼 [LinkedIn](https://www.linkedin.com/in/alex-bainbridge-84a670116) • 🖥️ [GitHub](https://github.com/bain2236) • ✍️ [Dev Blog](https://dev.to/bain_forge_games)
+Mental Health First Aider
+
+---
+
+## Education
+
+**University of South Wales** — BSc (Hons) Computer Games Development, 2:1 (2012–2016)
+**Pontypool College** — HND Graphic Design (2005–2008)

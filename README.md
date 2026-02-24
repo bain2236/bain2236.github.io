@@ -38,6 +38,7 @@ I’m a technical lead and polyglot engineer with **10 years’ experience** bui
 - Assisted in BAU such as adding in new translations in short time frames for brand launches
 - Disseminated a years worth of AI enabled engineering learnings to the wider engineering team
 - Built out AI-enabled engineering - rules, skills and workflows
+
 ---
 
 ### **Clinithink** — *Technical Lead*  

@@ -1,14 +1,10 @@
-# Alexander Bainbridge
 
 Pontypool, South Wales
 [abainbridge89@gmail.com](mailto:abainbridge89@gmail.com) • 07984 682330
 [LinkedIn](https://www.linkedin.com/in/alex-bainbridge-84a670116)
-[GitHub](https://github.com/bain2236)
 [Dev Blog](https://dev.to/bain_forge_games)
 
 ---
-
-## Technical Lead | Cloud & Platform Engineer
 
 Technical Lead with 10 years’ experience designing and delivering cloud-based platforms across healthcare, defence, and SaaS organisations. Experienced in system architecture, platform modernisation, DevOps adoption, and introducing AI-assisted engineering practices. Proven record of improving delivery speed, mentoring engineers, and establishing reliable production systems.
 

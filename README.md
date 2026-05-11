@@ -41,7 +41,7 @@ Technical Lead with 10 years’ experience designing and delivering cloud-based 
 *Oct 2025 – Feb 2026 | Bristol (Hybrid)*
 
 * Designed and delivered an AI-first advocate challenge-creation and content-analysis prototype using LangGraph
-* Productionised the system in an unfamiliar stack and released it to multiple customer brands
+* Productionised the system in an unfamiliar stack (MEAN) and released it to multiple customer brands
 * Introduced AI-assisted engineering workflows including reusable rules, skills, and automation patterns
 * Facilitated team retrospectives focused on psychological safety and team effectiveness
 * Supported live production operations, including rapid localisation updates for brand launches
@@ -53,10 +53,7 @@ Technical Lead with 10 years’ experience designing and delivering cloud-based 
 
 *Jun 2023 – Aug 2025 | Bridgend (Hybrid)*
 
-* Led a small team to architect and deliver **CustomerHub**, re-platforming a legacy .NET/Azure system to HubSpot CMS, React, and Azure Functions within one quarter
-* Reduced deployment cycles by 75% and significantly improved release reliability
-* Built **BuildTools**, a PowerShell cmdlet suite and reusable Azure DevOps pipeline templates used across the organisation
-* Standardised CI/CD pipelines, versioning, change logging, and artifact promotion
+* Led a small team to architect and deliver **CustomerHub**, re-platforming a legacy .NET/Azure system to HubSpot CMS, React, and Azure Functions within one quarter.
 * Introduced tooling to track AI-assisted coding metrics and engineering productivity
 * Mentored engineers and promoted psychological safety and collaborative working practices
 * Delivered technical demonstrations and knowledge-sharing sessions across multiple teams
@@ -68,11 +65,13 @@ Technical Lead with 10 years’ experience designing and delivering cloud-based 
 
 *Jun 2021 – Jun 2023 | Bridgend (Hybrid)*
 
-* Worked on **CLiX Revenue**, a Python/Django/React platform providing NLP-powered analytics
-* Eventually led the team and established it as the engineering benchmark within the organisation
-* Built the company’s first CI/CD pipelines using Terraform and Azure DevOps
-* Reduced QA cycle times from days to hours
+* Worked with the **CLiX Revenue** team and later led them to success. Python/Django/React platform providing NLP-powered analytics for US healthcare Revenue Cycle Management.
+* Led the team of offshore engineers and established it as the engineering benchmark within the organisation
+* Built the company’s first CD pipelines using Terraform and Azure DevOps. Reducing QA cycle times from days to hours
 * Collaborated with product owners and scrum masters to improve agile delivery practices
+* Built **BuildTools**, a PowerShell cmdlet suite and reusable Azure DevOps pipeline templates used across the organisation
+* Standardised CI/CD pipelines, versioning, change logging, and artifact promotion
+
 
 ---
 
